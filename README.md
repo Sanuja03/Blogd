@@ -1,4 +1,4 @@
-📝 Blogd – Blog Management System
+📝 Blogd – Blog Management System blogd.lovestoblog.com
 
 A modern, feature-rich blog management system built with PHP, MySQL, HTML, CSS, and JavaScript.
 Allows users to create, manage, and share blog posts with an intuitive interface and admin control panel.
